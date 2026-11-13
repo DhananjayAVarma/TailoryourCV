@@ -1,0 +1,6 @@
+{
+  "name": "TailorCV Studio",
+  "description": "AI-powered tailored resume and cover letter studio with ATS keyword gap analysis, multi-template live A4 preview, and inline document editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
